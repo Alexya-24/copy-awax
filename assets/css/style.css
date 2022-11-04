@@ -1000,6 +1000,9 @@ footer{
     .princing-banners{
     max-width: 540px;
     }
+    .slide-area .specifications {
+        flex-direction: column;
+    }
 
 
 
@@ -1194,6 +1197,9 @@ footer{
     }
     .princing-banner .slide {
         width: 100vw;
+    }
+    .slide-area .specifications {
+        flex-direction: column;
     }
 
 
